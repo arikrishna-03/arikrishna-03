@@ -92,7 +92,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyo
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/pacman-contribution-graph-dark.svg"/>
+<img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/pacman-contribution-graph-dark.svg"/>
 
 </p>
 🎨 Building better design systems
