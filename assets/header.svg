@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;family=Inter:wght@400;500;600&amp;display=swap');
+    
+    .title {
+      font-family: 'Outfit', 'Inter', -apple-system, sans-serif;
+      font-weight: 800;
+      font-size: 38px;
+      fill: #FFFFFF;
+      letter-spacing: -0.5px;
+    }
+    
+    .subtitle {
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      fill: url(#subGrad);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+    }
+    
+    .tagline {
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-weight: 400;
+      font-size: 13px;
+      fill: #8F9CAE;
+      letter-spacing: 0.5px;
+    }
+
+    .badge {
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-weight: 500;
+      font-size: 11px;
+      fill: #C71400;
+      letter-spacing: 1px;
+    }
+    
+    .grid-lines {
+      stroke: #2D305F;
+      stroke-width: 1;
+      stroke-opacity: 0.15;
+    }
+
+    .pulse {
+      animation: pulse-glow 3s infinite alternate;
+    }
+
+    @keyframes pulse-glow {
+      0% {
+        opacity: 0.3;
+        transform: scale(0.98);
+      }
+      100% {
+        opacity: 0.6;
+        transform: scale(1.02);
+      }
+    }
+  </style>
+  
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#24243C" />
+      <stop offset="50%" stop-color="#2F3039" />
+      <stop offset="100%" stop-color="#412927" />
+    </linearGradient>
+    
+    <!-- Subtitle Text Gradient (Logic to Creativity) -->
+    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1B23C9" />
+      <stop offset="100%" stop-color="#C71400" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2C318C" />
+      <stop offset="50%" stop-color="#2F3039" />
+      <stop offset="100%" stop-color="#8F291F" />
+    </linearGradient>
+    
+    <!-- Blur Filter for Mesh Glow -->
+    <filter id="blurFilter" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55" />
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" class="grid-lines" />
+    </pattern>
+  </defs>
+  
+  <!-- Rounded Base Card -->
+  <rect x="2" y="2" width="796" height="216" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5" />
+  
+  <!-- Glowing Mesh Background Elements -->
+  <g filter="url(#blurFilter)" class="pulse" style="transform-origin: center;">
+    <!-- Blue logic glow on left -->
+    <circle cx="120" cy="110" r="90" fill="#1B23C9" opacity="0.35" />
+    <!-- Red creativity glow on right -->
+    <circle cx="680" cy="110" r="90" fill="#C71400" opacity="0.25" />
+  </g>
+  
+  <!-- Grid Overlay -->
+  <rect x="3" y="3" width="794" height="214" rx="15" fill="url(#grid)" />
+  
+  <!-- Sleek Tech Graphic (Abstract Logic Net & Creative Waves) -->
+  <g transform="translate(560, 45)" opacity="0.85">
+    <!-- Logic Nodes (Blue) -->
+    <line x1="20" y1="40" x2="70" y2="20" stroke="#2C318C" stroke-width="1.5" />
+    <line x1="70" y1="20" x2="120" y2="50" stroke="#2C318C" stroke-width="1.5" />
+    <line x1="20" y1="40" x2="80" y2="80" stroke="#2C318C" stroke-width="1.5" />
+    <line x1="80" y1="80" x2="120" y2="50" stroke="#2C318C" stroke-width="1.5" />
+    <line x1="120" y1="50" x2="170" y2="90" stroke="#8F291F" stroke-width="1.5" />
+    <line x1="80" y1="80" x2="130" y2="110" stroke="#8F291F" stroke-width="1.5" />
+    <line x1="130" y1="110" x2="170" y2="90" stroke="#8F291F" stroke-width="1.5" />
+
+    <circle cx="20" cy="40" r="4" fill="#1B23C9" />
+    <circle cx="70" cy="20" r="5" fill="#1B23C9" />
+    <circle cx="80" cy="80" r="4" fill="#2C318C" />
+    <circle cx="120" cy="50" r="6" fill="#C71400" />
+    <circle cx="130" cy="110" r="5" fill="#8F291F" />
+    <circle cx="170" cy="90" r="4" fill="#C71400" />
+
+    <!-- Pulse effect on central transition node -->
+    <circle cx="120" cy="50" r="10" stroke="#C71400" stroke-width="1.5" fill="none" opacity="0.5">
+      <animate attributeName="r" values="6;14;6" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="3s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  
+  <!-- Profile Information Text Group -->
+  <g transform="translate(50, 0)">
+    <!-- Subtitle (Title) -->
+    <text x="0" y="70" class="subtitle">AI &amp; Data Science Student</text>
+    
+    <!-- Main Name -->
+    <text x="0" y="115" class="title">ARIKRISHNA A</text>
+    
+    <!-- Minimal Divider Accent -->
+    <rect x="0" y="135" width="80" height="3" fill="#1B23C9" rx="1.5" />
+    <rect x="85" y="135" width="12" height="3" fill="#C71400" rx="1.5" />
+    
+    <!-- Tagline -->
+    <text x="0" y="168" class="tagline">Where Logic Meets Creativity</text>
+  </g>
+
+  <!-- Location Indicator (Recruiter-friendly detail) -->
+  <g transform="translate(50, 188)" opacity="0.75">
+    <path d="M3 0 C1.34 0 0 1.34 0 3 C0 5.25 3 8 3 8 C3 8 6 5.25 6 3 C6 1.34 4.66 0 3 0 Z M3 4 C2.45 4 2 3.55 2 3 C2 2.45 2.45 2 3 2 C3.55 2 4 2.45 4 3 C4 3.55 3.55 4 3 4 Z" fill="#8F9CAE" transform="scale(1.2)"/>
+    <text x="12" y="8" font-family="'Inter', -apple-system, sans-serif" font-size="11" font-weight="500" fill="#8F9CAE" letter-spacing="0.5">Coimbatore, India</text>
+  </g>
+</svg>

@@ -1,2 +1,0 @@
-# Certifications
-Microsoft, Cisco, NPTEL.

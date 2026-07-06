@@ -1,0 +1,31 @@
+{
+  "theme": "Luxury Minimal Dark Mode",
+  "colors": {
+    "blue": {
+      "primary": "#1B23C9",
+      "medium": "#2C318C",
+      "navy": "#2D305F",
+      "midnight": "#24243C",
+      "charcoal": "#2F3039"
+    },
+    "red": {
+      "primary": "#C71400",
+      "rust": "#8F291F",
+      "brown": "#5B2D28",
+      "dark": "#412927",
+      "charcoal": "#403434"
+    }
+  },
+  "fonts": [
+    "Outfit",
+    "Inter",
+    "SF Pro Display",
+    "system-ui"
+  ],
+  "branding": {
+    "name": "Arikrishna A",
+    "title": "AI & Data Science Student",
+    "tagline": "Where Logic Meets Creativity",
+    "location": "Coimbatore, India"
+  }
+}

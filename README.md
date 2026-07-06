@@ -1,125 +1,309 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:C71400,25:8F291F,50:5B2D28,75:1B23C9,100:24243C&text=Arikrishna%20A&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=ffffff&desc=AI%20|%20Full%20Stack%20Developer%20|%20Designer&descAlignY=60" width="100%" />
+  <!-- Animated Header -->
+  <img src="assets/header.svg" width="800" alt="Arikrishna A - Header Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Freelance+Designer;Building+Products+Where+Logic+Meets+Creativity)](https://git.io/typing-svg)
+  <br/><br/>
 
-<a href="https://arikrishna-03.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-24243C?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=C71400&amp;background=24243C00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=AI+%26+Data+Science+Student;Machine+Learning+Practitioner;Where+Logic+Meets+Creativity" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/arikrishna37/">
-<img src="https://img.shields.io/badge/LinkedIn-1B23C9?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <br/>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-C71400?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <!-- Professional Action Buttons -->
+  <a href="https://arikrishna-03.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1B23C9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/arikrishna37/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2C318C?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/arikrishna-03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-2F3039?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:arikrishna.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-C71400?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
 
-<a href="https://github.com/arikrishna-03">
-<img src="https://img.shields.io/badge/GitHub-2F3039?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <br/><br/>
 
-<br><br>
+  <!-- Profile Stats Badges -->
+  <img src="https://komarev.com/normal-github-profiles/counter?username=arikrishna-03&amp;color=1b23c9&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/arikrishna-03?color=8F291F&amp;label=FOLLOWERS&amp;style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/arikrishna-03?color=C71400&amp;label=STARS&amp;style=for-the-badge" alt="Stars" />
 
-<img src="https://komarev.com/ghpvc/?username=arikrishna-03&style=for-the-badge&color=1B23C9"/>
-
-<img src="https://img.shields.io/github/followers/arikrishna-03?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/arikrishna-03?affiliations=OWNER&style=for-the-badge"/>
+  <br/><br/>
+  <img src="assets/divider.svg" width="800" alt="Divider" />
+  <br/>
 
 </div>
 
----
+## 🪐 About Me
 
-# 🚀 About Me
+I am an **Artificial Intelligence and Data Science** undergraduate student based in Coimbatore, India. I operate at the intersection of mathematical rigor (logic) and creative problem-solving. My core academic and technical focus is developing pipelines that extract actionable patterns from structured and unstructured datasets.
 
-AI & Data Science student focused on **Software Engineering**, **AI**, **Full Stack Development**, and **Product Design**.
+- 🔭 I’m currently developing deep neural network models and optimizing data architectures.
+- 📚 Studying advanced Machine Learning, statistical inference, and big data systems.
+- ⚡ Fun fact: I believe coding is just another medium for creative expression.
 
-- 🚀 Building scalable applications
-- 🤖 AI-powered solutions
-- ☁️ Learning Cloud & DevOps
-- 💼 Open to internships & freelance projects
+<br/>
 
-## 🎯 Open To
+<div align="center">
+  <!-- Minimalist "Open To" Info Box -->
+  <table width="100%">
+    <tr>
+      <td bgcolor="#24243C" style="border: 1px solid #2D305F; border-radius: 12px; padding: 20px;">
+        <h3 style="margin-top: 0; color: #C71400; font-family: 'Outfit', sans-serif;">🎓 OPEN TO OPPORTUNITIES</h3>
+        <p style="color: #E2E8F0; font-size: 14px; line-height: 1.6; margin-bottom: 0;">
+          <strong>Roles:</strong> Data Science Internships, Machine Learning Engineering, Research Fellowships, Software Development<br/>
+          <strong>Focus Areas:</strong> Deep Learning, Computer Vision, MLOps, NLP, Predictive Modeling<br/>
+          <strong>Location:</strong> Coimbatore, India (Open to Hybrid / Remote)
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- Software Engineering
-- AI / ML
-- Full Stack Development
-- Open Source
+<br/>
+<img src="assets/divider.svg" width="800" alt="Divider" />
+<br/>
 
----
+## 🛠️ Tech Stack &amp; Skills
 
-# 💻 Tech Stack
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-24243C?style=flat-square&amp;logo=python&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-2C318C?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-2D305F?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/R-2F3039?style=flat-square&amp;logo=r&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-8F291F?style=flat-square&amp;logo=javascript&amp;logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>AI &amp; Machine Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-C71400?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-8F291F?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-1B23C9?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-2C318C?style=flat-square&amp;logo=keras&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-2D305F?style=flat-square&amp;logo=huggingface&amp;logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Frontend &amp; Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-2F3039?style=flat-square&amp;logo=react&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-C71400?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-8F291F?style=flat-square&amp;logo=flask&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-1B23C9?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-2C318C?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Cloud &amp; DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-2D305F?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/GCP-2F3039?style=flat-square&amp;logo=google-cloud&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-C71400?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-8F291F?style=flat-square&amp;logo=git&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-1B23C9?style=flat-square&amp;logo=github-actions&amp;logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Databases &amp; Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-2C318C?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-2D305F?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-2F3039?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-C71400?style=flat-square&amp;logo=tableau&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-8F291F?style=flat-square&amp;logo=jupyter&amp;logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-## Languages
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java" />
-</p>
+### 🧠 AI &amp; ML Expertise Matrix
 
-## Frontend
+| Domain | Core Frameworks | Architectures &amp; Techniques |
+| :--- | :--- | :--- |
+| **Computer Vision** | OpenCV, PyTorch, TensorFlow | CNNs, Image Segmentation, U-Net, Object Detection (YOLO) |
+| **Natural Language Processing** | Hugging Face, NLTK, Transformers | Tokenization, BERT Fine-tuning, Sequence-to-Sequence models |
+| **Classical Machine Learning** | Scikit-Learn, XGBoost, Pandas | Random Forests, SVMs, Regression, Clustering Analysis |
+| **MLOps &amp; Engineering** | FastAPI, Docker, Git | Model Containerization, Inference APIs, Version Control Pipelines |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
+<br/>
+<img src="assets/divider.svg" width="800" alt="Divider" />
+<br/>
 
-## Backend & Databases
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
-</p>
+Here are highlights of my engineering work. Click each card to expand details.
 
-## Cloud • DevOps • Tooling
+<details>
+  <summary><strong>🤖 AI-Driven Sentiment Analysis API</strong></summary>
+  <br/>
+  <blockquote>
+    An end-to-end sentiment classification microservice.
+  </blockquote>
+  
+  - Fine-tuned a transformer model on 50k+ social sentiment records.
+  - Developed inference APIs with latency under 100ms using **FastAPI**.
+  - Packaged the entire pipeline using **Docker** for standardized staging deployments.
+  
+  `PyTorch` `Hugging Face` `FastAPI` `Docker` `Python`
+</details>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma" />
-</p>
+<details>
+  <summary><strong>📊 Interactive Data Analytics Hub</strong></summary>
+  <br/>
+  <blockquote>
+    Interactive client-side analytics portal displaying predictive charts.
+  </blockquote>
+  
+  - Designed interactive D3 charts representing real-time telemetry inputs.
+  - Implemented responsive design structures for high-performance viewing.
+  
+  `React` `D3.js` `JavaScript` `CSS3`
+</details>
 
----
+<details>
+  <summary><strong>🩺 Medical Image Segmentation Pipeline</strong></summary>
+  <br/>
+  <blockquote>
+    Clinical scans anomaly detection using deep convolutional networks.
+  </blockquote>
+  
+  - Trained a U-Net architecture for cell boundary and anomaly segmentation in MRI slices.
+  - Enhanced classification boundaries using custom weight-map loss functions.
+  
+  `TensorFlow` `Keras` `OpenCV` `Python`
+</details>
 
-# 📊 GitHub Analytics
+<br/>
+<img src="assets/divider.svg" width="800" alt="Divider" />
+<br/>
 
-<p align="center">
+## 💼 Experience &amp; Education
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arikrishna-03&show_icons=true&theme=tokyonight"/>
+### 🎓 Education
+- **Bachelor of Technology in Artificial Intelligence &amp; Data Science**
+  *Coimbatore, India* • *Ongoing*
+  - Key coursework: Statistical Foundations, Data Structures &amp; Algorithms, Neural Networks, Database Systems.
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arikrishna-03&theme=tokyonight"/>
+### 💻 Academic Projects &amp; Open Source
+- **Student Researcher &amp; ML Developer**
+  - Designed and executed deep learning experiments.
+  - Collaborated on pipeline optimizations for computer vision research models.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikrishna-03&layout=compact&theme=tokyonight"/>
+<br/>
+<img src="assets/divider.svg" width="800" alt="Divider" />
+<br/>
 
-</p>
+## 🏆 Achievements &amp; Certifications
 
----
+- 🥇 Winner / Top Finisher in local collegiate Hackathons.
+- 🎓 Deep Learning Specialization – Coursera.
+- 🎓 Google Cloud Data Analytics Professional Certificate.
 
-# 🏆 GitHub Trophies
+<br/>
+<img src="assets/divider.svg" width="800" alt="Divider" />
+<br/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arikrishna-03&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
+## 💻 Coding Profiles
 
----
+<div align="center">
+  <a href="https://leetcode.com/arikrishna37/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-24243C?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFE1A8" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/arikrishna_03" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-2C318C?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/arikrishna_work" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2D305F?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/arikrishnawork/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-C71400?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</div>
 
-# 📈 Contribution Graph
+<br/>
+<img src="assets/divider.svg" width="800" alt="Divider" />
+<br/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arikrishna-03&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-```md
-![Snake Animation](https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/github-contribution-grid-snake-dark.svg)
-```
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
 
-> **Building products where logic meets creativity.**
+  <!-- Readme Stats & Top Languages Side by Side (HTML layout) -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=arikrishna-03&amp;show_icons=true&amp;theme=dark&amp;title_color=C71400&amp;icon_color=1B23C9&amp;text_color=E2E8F0&amp;bg_color=24243C&amp;border_color=2D305F" width="95%" alt="Arikrishna's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikrishna-03&amp;layout=compact&amp;theme=dark&amp;title_color=C71400&amp;icon_color=1B23C9&amp;text_color=E2E8F0&amp;bg_color=24243C&amp;border_color=2D305F" width="95%" alt="Arikrishna's Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:24243C,25:2C318C,50:1B23C9,75:8F291F,100:C71400" width="100%"/>
+  <br/>
 
+  <!-- Streak Stats & Activity Graph Side by Side -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arikrishna-03&amp;theme=dark&amp;background=24243C&amp;fire=C71400&amp;ring=1B23C9&amp;stroke=2D305F&amp;currStreakNum=E2E8F0&amp;sideLabels=8F9CAE" width="95%" alt="GitHub Streak Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=arikrishna-03&amp;bg_color=24243C&amp;color=C71400&amp;line=1B23C9&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="95%" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Trophies -->
+  <h4>🏆 GitHub Trophies</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=arikrishna-03&amp;theme=darkhub&amp;no-background=true&amp;no-border=false&amp;margin-w=10&amp;margin-h=10" width="95%" alt="GitHub Trophies" />
+
+  <br/><br/>
+
+  <!-- Contribution Snake Animation -->
+  <h4>🐍 Contribution Snake</h4>
+  <img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake Dark" />
+
+</div>
+
+<br/>
+<img src="assets/divider.svg" width="800" alt="Divider" />
+<br/>
+
+## 🎯 Current Focus
+
+```yaml
+focus:
+  learning: 
+    - "Generative AI & LLM Fine-Tuning"
+    - "Mathematical Foundations of Deep Learning"
+  active_project: "Scalable Data Analytics Pipelines"
+  reading: "Designing Data-Intensive Applications by Martin Kleppmann"
+```
+
+<br/>
+<img src="assets/divider.svg" width="800" alt="Divider" />
+<br/>
+
+## 🤝 Connect With Me
+
+- **Email:** [arikrishna.work@gmail.com](mailto:arikrishna.work@gmail.com)
+- **LinkedIn:** [Arikrishna A](https://www.linkedin.com/in/arikrishna37/)
+- **Portfolio:** [arikrishna-03.github.io/portfolio](https://arikrishna-03.github.io/portfolio/)
+
+<br/><br/>
+
+<div align="center">
+  <!-- Animated Footer -->
+  <img src="assets/footer.svg" width="800" alt="Arikrishna A - Footer Banner" />
 </div>
