@@ -17,8 +17,8 @@
   <a href="https://www.linkedin.com/in/arikrishna37/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2C318C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/arikrishna-03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-2F3039?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.behance.net/arikrishna37" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <a href="mailto:arikrishna.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-C71400?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -254,7 +254,7 @@ Here are highlights of my engineering work. Click each card to expand details.
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arikrishna-03&theme=dark&background=24243C&fire=C71400&ring=1B23C9&stroke=2D305F&currStreakNum=E2E8F0&sideLabels=8F9CAE" width="95%" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arikrishna-03&theme=dark&background=24243C&fire=C71400&ring=1B23C9&stroke=2D305F&currStreakNum=E2E8F0&sideLabels=8F9CAE&hide_longest_streak=true" width="95%" alt="GitHub Streak Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=arikrishna-03&bg_color=24243C&color=C71400&line=1B23C9&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
