@@ -1,123 +1,291 @@
-<div align="center">
+\#
 
-<img src="assets/banner.png" width="100%"/>
+::: {align="center"}
+Arikrishna A
+:::
 
-<h1>ARIKRISHNA A</h1>
+::: {align="center"}
+![](https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=Arikrishna%20A&fontAlign=50&fontAlignY=40&fontSize=42&desc=AI%20%7C%20Full%20Stack%20%7C%20Designer&descAlignY=60)
 
-<h3>
-Designer • Developer • Digital Creator
-</h3>
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Freelance+Designer;Building+Useful+Products)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Digital+Experiences;Crafting+Modern+Interfaces;Transforming+Ideas+Into+Products;Design+Meets+Development" />
+![](https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-6C63FF?style=for-the-badge)
+![](https://img.shields.io/badge/India-Coimbatore-5B5BD6?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20to-Internships-7C3AED?style=for-the-badge)
 
-</div>
-const me = {
-    role: "Designer & Developer",
+[Portfolio](https://arikrishna-03.github.io/portfolio/) •
+[LinkedIn](https://www.linkedin.com/in/arikrishna37/) •
+[GitHub](https://github.com/arikrishna-03)
 
-    passions: [
-        "UI/UX Design",
-        "Frontend Development",
-        "Creative Branding",
-        "Digital Experiences"
-    ],
+![](https://komarev.com/ghpvc/?username=arikrishna-03&style=for-the-badge&color=6C63FF)
+![](https://img.shields.io/github/followers/arikrishna-03?style=for-the-badge)
+![](https://img.shields.io/github/stars/arikrishna-03?affiliations=OWNER&style=for-the-badge)
+:::
 
-    mission: "Build products people love",
+------------------------------------------------------------------------
 
-    currently: "Learning. Building. Growing."
-}
-Design Systems      ████████████████
+# About
 
-UI/UX Design        ███████████████░
+AI & Data Science student focused on **Software Engineering**, **AI**,
+**Full Stack Development**, and **Product Design**.
 
-Frontend            ███████████████░
+-   Building scalable applications
+-   Learning cloud & DevOps
+-   Passionate about AI-powered products
+-   Available for internships and freelance projects
 
-Creative Thinking   ████████████████
+### Open To
 
-Problem Solving     ███████████████░
-<table>
-<tr>
+-   Software Engineering
+-   AI/ML
+-   Full Stack Development
+-   Open Source
 
-<td width="50%">
+------------------------------------------------------------------------
 
-<img src="assets/project1.gif"/>
+# Tech Stack
 
-### Brand Identity Project
+## Languages
 
-Logo Design
-Visual System
-Marketing Assets
-
-</td>
-
-<td width="50%">
-
-<img src="assets/project2.gif"/>
-
-
-### SaaS Dashboard
-
-UI/UX Design
-Frontend Development
-
-</td>
-
-</tr>
-</table>
-<div align="center">
-
-<img width="48%" src="assets/design1.jpg"/>
-<img width="48%" src="assets/design2.jpg"/>
-
-<br>
-
-<img width="48%" src="assets/design3.jpg"/>
-<img width="48%" src="assets/design4.jpg"/>
-
-</div>
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,python,mongodb,git,github,figma,photoshop,illustrator,vscode"/>
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java"/>`{=html}
+```{=html}
 </p>
-<p align="center">
+```
+## Frontend
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true"/>
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>`{=html}
+```{=html}
 </p>
-<h2 align="center">👾 Activity Maze</h2>
+```
+## Backend & Databases
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/pacman-contribution-graph-dark.svg"/>
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql"/>`{=html}
+```{=html}
 </p>
-🎨 Building better design systems
+```
+## Cloud • DevOps • Tooling
 
-💻 Creating scalable web applications
-
-🚀 Developing digital products
-
-📚 Learning emerging technologies
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble"/>
-</a>
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma"/>`{=html}
+```{=html}
 </p>
+```
+
+------------------------------------------------------------------------
+
+# AI / ML Expertise
+
+  Domain             Proficiency    Details
+  ------------------ -------------- ---------------------
+  Machine Learning   Intermediate   Model development
+  Deep Learning      Learning       CNNs, NLP
+  Data Analytics     Intermediate   Python, Pandas
+  Full Stack AI      Intermediate   AI-powered web apps
+
+------------------------------------------------------------------------
+
+# Featured Projects
+
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}EduTrack`</b>`{=html}
+```{=html}
+</summary>
+```
+Student achievement & coding profile tracker.
+
+  Category      Details
+  ------------- -----------------------------------
+  Stack         React, Node.js, MongoDB, Firebase
+  Scale         Multi-user
+  Performance   Optimized dashboard
+  Security      Firebase Authentication
+  Impact        Student analytics
+  Repository    https://github.com/arikrishna-03
+
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}Portfolio Website`</b>`{=html}
+```{=html}
+</summary>
+```
+Modern dual-theme AI + Design portfolio.
+
+  Category      Details
+  ------------- ----------------------------------
+  Stack         React
+  Scale         Personal branding
+  Performance   Responsive
+  Security      Static hosting
+  Impact        Recruiter portfolio
+  Repository    https://github.com/arikrishna-03
+
+```{=html}
+</details>
+```
+
+------------------------------------------------------------------------
+
+# Experience
+
+### Freelance Designer
+
+**2024 -- Present**
+
+-   Brand Identity
+-   UI Design
+-   Social Media
+-   Websites
+
+**Skills:** Photoshop • Illustrator • React • Branding
+
+------------------------------------------------------------------------
+
+# Achievements
+
+  Recognition          Details
+  -------------------- ----------------------------
+  Portfolio            Personal branding website
+  Competitive Coding   Active on coding platforms
+  Open Source          GitHub projects
+
+------------------------------------------------------------------------
+
+# Certifications
+
+### Microsoft
+
+-   AI-901 (Scheduled/Completed as applicable)
+
+### Cisco
+
+-   Python Essentials
+-   Introduction to Networks
+
+### NPTEL
+
+-   Coursework
+
+------------------------------------------------------------------------
+
+# Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge)](https://www.codechef.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge)](https://www.hackerrank.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-darkgreen?style=for-the-badge)](https://www.geeksforgeeks.org/)
+
+------------------------------------------------------------------------
+
+# GitHub Analytics
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=arikrishna-03&show_icons=true&theme=tokyonight"/>`{=html}
+
+`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arikrishna-03&theme=tokyonight"/>`{=html}
+
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikrishna-03&layout=compact&theme=tokyonight"/>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# GitHub Trophies
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=arikrishna-03&theme=tokyonight&no-frame=true&row=2&column=4"/>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# Contribution Activity
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=arikrishna-03&theme=tokyo-night"/>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# Contribution Snake
+
+``` text
+Replace with your GitHub Action generated snake.svg
+```
+
+------------------------------------------------------------------------
+
+# Current Focus
+
+``` yaml
+learning:
+  - AI Engineering
+  - Cloud
+  - System Design
+
+building:
+  - Portfolio
+  - AI Projects
+  - Full Stack Applications
+
+exploring:
+  - Open Source
+  - DevOps
+
+open_to:
+  - Internships
+  - Freelance
+  - Collaborations
+```
+
+------------------------------------------------------------------------
+
+# Connect
+
+-   Portfolio: https://arikrishna-03.github.io/portfolio/
+-   GitHub: https://github.com/arikrishna-03
+-   LinkedIn: https://www.linkedin.com/in/arikrishna37/
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+> Building products where logic meets creativity.
+
+![](https://capsule-render.vercel.app/api?type=waving&section=footer&color=6C63FF)
+:::
