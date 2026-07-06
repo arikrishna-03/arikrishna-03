@@ -265,8 +265,15 @@ Here are highlights of my engineering work. Click each card to expand details.
   <br/>
 
   <!-- Trophies -->
-  <h4>🏆 GitHub Trophies</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=arikrishna-03&amp;theme=darkhub&amp;no-background=true&amp;no-border=false&amp;margin-w=10&amp;margin-h=10" width="95%" alt="GitHub Trophies" />
+  <table width="100%">
+    <tr>
+      <td bgcolor="#24243C" style="border: 1px solid #2D305F; border-radius: 12px; padding: 20px; text-align: center;">
+        <h4 style="margin-top: 0; color: #C71400; font-family: 'Outfit', sans-serif; letter-spacing: 1px;">🏆 GITHUB TROPHIES</h4>
+        <br/>
+        <img src="https://github-profile-trophy.vercel.app/?username=arikrishna-03&amp;theme=darkhub&amp;no-background=true&amp;no-border=false&amp;margin-w=10&amp;margin-h=10" width="95%" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
 
@@ -282,14 +289,25 @@ Here are highlights of my engineering work. Click each card to expand details.
 
 ## 🎯 Current Focus
 
-```yaml
-focus:
-  learning: 
-    - "Generative AI & LLM Fine-Tuning"
-    - "Mathematical Foundations of Deep Learning"
-  active_project: "Scalable Data Analytics Pipelines"
-  reading: "Designing Data-Intensive Applications by Martin Kleppmann"
-```
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td bgcolor="#24243C" style="border: 1px solid #2D305F; border-radius: 12px; padding: 20px; text-align: center;">
+        <p>
+          <img src="https://img.shields.io/badge/📚%20Learning-Generative%20AI%20%26%20LLM%20Fine--Tuning-1B23C9?style=for-the-badge&amp;logoColor=white" alt="Learning" />
+          &nbsp;&nbsp;
+          <img src="https://img.shields.io/badge/🧠%20Studying-Mathematical%20Foundations%20of%20DL-2C318C?style=for-the-badge&amp;logoColor=white" alt="Studying" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/💻%20Active%20Project-Scalable%20Data%20Analytics%20Pipelines-C71400?style=for-the-badge&amp;logoColor=white" alt="Active Project" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/📖%20Reading-Designing%20Data--Intensive%20Applications-8F291F?style=for-the-badge&amp;logoColor=white" alt="Reading" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 <img src="assets/divider.svg" width="800" alt="Divider" />
@@ -297,9 +315,19 @@ focus:
 
 ## 🤝 Connect With Me
 
-- **Email:** [arikrishna.work@gmail.com](mailto:arikrishna.work@gmail.com)
-- **LinkedIn:** [Arikrishna A](https://www.linkedin.com/in/arikrishna37/)
-- **Portfolio:** [arikrishna-03.github.io/portfolio](https://arikrishna-03.github.io/portfolio/)
+<div align="center">
+  <a href="mailto:arikrishna.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-arikrishna.work%40gmail.com-C71400?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arikrishna37/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Arikrishna%20A-1B23C9?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://arikrishna-03.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-arikrishna--03.github.io-2D305F?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <br/><br/>
 
