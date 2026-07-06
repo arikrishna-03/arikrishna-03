@@ -6,7 +6,7 @@
   <br/><br/>
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=C71400&background=24243C00&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Practitioner;Where+Logic+Meets+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=C71400&background=24243C00&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Freelance+Designer" alt="Typing SVG" />
 
   <br/>
 
@@ -27,7 +27,7 @@
   <br/><br/>
 
   <!-- Profile Stats Badges -->
-  <img src="https://komarev.com/normal-github-profiles/counter?username=arikrishna-03&color=1b23c9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arikrishna-03&color=1b23c9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/arikrishna-03?color=8F291F&label=FOLLOWERS&style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/github/stars/arikrishna-03?color=C71400&label=STARS&style=for-the-badge" alt="Stars" />
 
