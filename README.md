@@ -236,19 +236,7 @@ Here are highlights of my engineering work. Click each card to expand details.
 
 <div align="center">
 
-  <!-- Readme Stats & Top Languages Side by Side (HTML layout) -->
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=arikrishna-03&show_icons=true&theme=dark&title_color=C71400&icon_color=1B23C9&text_color=E2E8F0&bg_color=24243C&border_color=2D305F" width="95%" alt="Arikrishna's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikrishna-03&layout=compact&theme=dark&title_color=C71400&icon_color=1B23C9&text_color=E2E8F0&bg_color=24243C&border_color=2D305F" width="95%" alt="Arikrishna's Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
 
   <!-- Streak Stats & Activity Graph Side by Side -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -264,18 +252,7 @@ Here are highlights of my engineering work. Click each card to expand details.
 
   <br/>
 
-  <!-- Trophies -->
-  <table width="100%">
-    <tr>
-      <td bgcolor="#24243C" style="border: 1px solid #2D305F; border-radius: 12px; padding: 20px; text-align: center;">
-        <h4 style="margin-top: 0; color: #C71400; font-family: 'Outfit', sans-serif; letter-spacing: 1px;">🏆 GITHUB TROPHIES</h4>
-        <br/>
-        <img src="https://github-profile-trophy.vercel.app/?username=arikrishna-03&theme=darkhub&no-background=true&no-border=false&margin-w=10&margin-h=10" width="95%" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
 
-  <br/><br/>
 
   <!-- Contribution Snake Animation -->
   <h4>🐍 Contribution Snake</h4>
