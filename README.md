@@ -264,50 +264,6 @@ Here are highlights of my engineering work. Click each card to expand details.
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
-## 🎯 Current Focus
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#24243C" style="border: 1px solid #2D305F; border-radius: 12px; padding: 20px; text-align: center;">
-        <p>
-          <img src="https://img.shields.io/badge/📚%20Learning-Generative%20AI%20%26%20LLM%20Fine--Tuning-1B23C9?style=for-the-badge&logoColor=white" alt="Learning" />
-          &nbsp;&nbsp;
-          <img src="https://img.shields.io/badge/🧠%20Studying-Mathematical%20Foundations%20of%20DL-2C318C?style=for-the-badge&logoColor=white" alt="Studying" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/💻%20Active%20Project-Scalable%20Data%20Analytics%20Pipelines-C71400?style=for-the-badge&logoColor=white" alt="Active Project" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/📖%20Reading-Designing%20Data--Intensive%20Applications-8F291F?style=for-the-badge&logoColor=white" alt="Reading" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-<img src="assets/divider.svg" width="800" alt="Divider" />
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="mailto:arikrishna.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-arikrishna.work%40gmail.com-C71400?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arikrishna37/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arikrishna%20A-1B23C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://arikrishna-03.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-arikrishna--03.github.io-2D305F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br/><br/>
-
 <div align="center">
   <!-- Animated Footer -->
   <img src="assets/footer.svg" width="800" alt="Arikrishna A - Footer Banner" />
