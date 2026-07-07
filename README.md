@@ -229,11 +229,14 @@ Here are highlights of my engineering work. Click each card to expand details.
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/arikrishna37/" target="_blank">
+  <a href="https://leetcode.com/u/kit28adc018/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-24243C?style=for-the-badge&logo=leetcode&logoColor=FFE1A8" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/arikrishna_03" target="_blank">
+  <a href="https://www.codechef.com/users/kit28adc018" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-2C318C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/profile/kit28adc018" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-8F291F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.hackerrank.com/arikrishna_work" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2D305F?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
@@ -249,9 +252,9 @@ Here are highlights of my engineering work. Click each card to expand details.
 
 | Platform | Max Rating / Rank | Solved Problems | Additional Achievements |
 | :--- | :--- | :--- | :--- |
-| **LeetCode** | 1,453 (Highest Rank: 119) | 70+ | Top 61.22% globally |
-| **CodeChef** | 1,171 (1 Star) | 500+ (Global Rank: 93,616) | Solved 80+ problems in DSA |
-| **Codeforces** | 955 (Newbie) | 4+ | — |
+| **LeetCode** | 1,441 (Max: 1,555) | 94 | Top 66.27% globally |
+| **CodeChef** | 1,171 (Max: 1,203) | 819 (Global Rank: 92,857) | Solved 80+ problems in DSA |
+| **Codeforces** | 988 (Newbie) | 5 | — |
 
 </div>
 
