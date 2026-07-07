@@ -74,10 +74,11 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
     <td width="30%" valign="top"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-24243C?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-2C318C?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-2D305F?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/R-2F3039?style=flat-square&logo=r&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-8F291F?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-2D305F?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-2C318C?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-1B23C9?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-2F3039?style=flat-square&logo=css3&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -85,8 +86,8 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
     <td>
       <img src="https://img.shields.io/badge/PyTorch-C71400?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-8F291F?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-2F3039?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--Learn-1B23C9?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keras-2C318C?style=flat-square&logo=keras&logoColor=white" />
       <img src="https://img.shields.io/badge/Hugging_Face-2D305F?style=flat-square&logo=huggingface&logoColor=white" />
     </td>
   </tr>
@@ -94,30 +95,32 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
     <td valign="top"><strong>Frontend & Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-2F3039?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-C71400?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-8F291F?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-1B23C9?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-2C318C?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-24243C?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-2D305F?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-C71400?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-8F291F?style=flat-square&logo=firebase&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>Cloud & DevOps</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-2D305F?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-2F3039?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-C71400?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-8F291F?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-1B23C9?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-24243C?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-C71400?style=flat-square&logo=docker&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Databases & Tools</strong></td>
+    <td valign="top"><strong>Databases & Design Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-2C318C?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-2D305F?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-2F3039?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tableau-C71400?style=flat-square&logo=tableau&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-8F291F?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-C71400?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-2C318C?style=flat-square&logo=adobephotoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Illustrator-8F291F?style=flat-square&logo=adobeillustrator&logoColor=white" />
+      <img src="https://img.shields.io/badge/CorelDRAW-1B23C9?style=flat-square&logo=coreldraw&logoColor=white" />
+      <img src="https://img.shields.io/badge/InDesign-2D305F?style=flat-square&logo=adobeindesign&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blender_3D-2F3039?style=flat-square&logo=blender&logoColor=white" />
+      <img src="https://img.shields.io/badge/After_Effects-2C318C?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+      <img src="https://img.shields.io/badge/DaVinci-1B23C9?style=flat-square&logo=davinciresolve&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -142,43 +145,29 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 Here are highlights of my engineering work. Click each card to expand details.
 
 <details>
-  <summary><strong>🤖 AI-Driven Sentiment Analysis API</strong></summary>
+  <summary><strong>📸 POSEAI — AI-Powered Pose Recommendation App (2025)</strong></summary>
   <br/>
   <blockquote>
-    An end-to-end sentiment classification microservice.
+    An AI-powered mobile-camera application that scans location context to recommend optimal photo poses tailored to specific subject types.
   </blockquote>
   
-  - Fine-tuned a transformer model on 50k+ social sentiment records.
-  - Developed inference APIs with latency under 100ms using **FastAPI**.
-  - Packaged the entire pipeline using **Docker** for standardized staging deployments.
+  - Architected a custom pose recommendation pipeline integrating location context and user preferences.
+  - Prototyped a robust recommendation engine utilizing Computer Vision to analyze scene composition, gender, and subjects for real-time recommendations.
   
-  `PyTorch` `Hugging Face` `FastAPI` `Docker` `Python`
+  `Computer Vision` `PyTorch` `Location API` `AI Inference` `Mobile Integration` `Python`
 </details>
 
 <details>
-  <summary><strong>📊 Interactive Data Analytics Hub</strong></summary>
+  <summary><strong>📊 EDUTRACK — Real-Time Academic Tracking Platform (2025)</strong></summary>
   <br/>
   <blockquote>
-    Interactive client-side analytics portal displaying predictive charts.
+    A web-based academic and competitive programming tracking platform with dedicated dashboards.
   </blockquote>
   
-  - Designed interactive D3 charts representing real-time telemetry inputs.
-  - Implemented responsive design structures for high-performance viewing.
+  - Engineered separate mentor and student dashboards using a full-stack architecture to monitor academic and coding performance in real-time.
+  - Replaced manual Excel tracking by automating real-time data fetching directly from platforms like CodeChef and LeetCode.
   
-  `React` `D3.js` `JavaScript` `CSS3`
-</details>
-
-<details>
-  <summary><strong>🩺 Medical Image Segmentation Pipeline</strong></summary>
-  <br/>
-  <blockquote>
-    Clinical scans anomaly detection using deep convolutional networks.
-  </blockquote>
-  
-  - Trained a U-Net architecture for cell boundary and anomaly segmentation in MRI slices.
-  - Enhanced classification boundaries using custom weight-map loss functions.
-  
-  `TensorFlow` `Keras` `OpenCV` `Python`
+  `React.js` `Node.js` `MongoDB` `REST API` `Tailwind CSS` `Express.js`
 </details>
 
 <br/>
@@ -189,10 +178,30 @@ Here are highlights of my engineering work. Click each card to expand details.
 
 ### 🎓 Education
 - **Bachelor of Technology in Artificial Intelligence & Data Science**
-  *Coimbatore, India* • *Ongoing*
+  *KIT-KalaignarKarunanidhi Institute of Technology, Coimbatore* • *2024 – 2028*
   - Key coursework: Statistical Foundations, Data Structures & Algorithms, Neural Networks, Database Systems.
+- **Master in Graphic Design**
+  *Animax Institute of Multimedia* • *Jun – Sep 2024*
 
-### 💻 Academic Projects & Open Source
+### 💻 Professional & Creative Experience
+- **Freelance Graphic Designer & Creative Professional**
+  *Self-Employed* • *Mar 2024 – Present*
+  - Delivered comprehensive visual design and branding solutions for 10+ clients across diverse industries, including complete corporate identity management.
+  - Structured and sold tiered branding and social media management packages (ranging from 2,999 to 9,999 INR), expanding the client base and increasing project revenue.
+  - Produced highly detailed 3D product renders and motion graphics using Blender and After Effects for enterprise-level marketing campaigns.
+  - Directed the complete project lifecycle from initial client brief to final delivery, ensuring seamless communication and 100% on-time project delivery.
+
+- **Graphic Designer Intern**
+  *USR Machineries | Remote* • *Apr 2025 – Jun 2025*
+  - Conceptualized and executed a complete brand identity suite for a manufacturing startup, including logos, visiting cards, letterheads, and catalog covers.
+  - Produced a full suite of client-facing branding materials, elevating the company's marketing presence and establishing a cohesive visual identity.
+
+- **Graphic Designer Intern**
+  *InAmigos Foundation (IAF) | Remote* • *Mar 2025 – Apr 2025*
+  - Created high-impact promotional posters and social outreach materials for an NGO registered with NITI Aayog and the Ministry of Corporate Affairs.
+  - Supported national fundraising campaigns by delivering compelling visual communication assets, significantly boosting the foundation's awareness initiatives.
+
+### 🔬 Research & Open Source
 - **Student Researcher & ML Developer**
   - Designed and executed deep learning experiments.
   - Collaborated on pipeline optimizations for computer vision research models.
@@ -203,9 +212,15 @@ Here are highlights of my engineering work. Click each card to expand details.
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Winner / Top Finisher in local collegiate Hackathons.
-- 🎓 Deep Learning Specialization – Coursera.
-- 🎓 Google Cloud Data Analytics Professional Certificate.
+### 🎓 Certifications & Courses
+- 🎓 **Machine Learning Specialization** — Coursera (2026)
+- 🎓 **Data Visualization with Python** — Coursera (2025)
+- 🎓 **Artificial Intelligence Essentials** — Coursera (2025)
+- 🎓 **Intro to Generative AI Learning Path** — Coursera (2025)
+
+### 🥇 Achievements & Competitions
+- 🏆 Participated in the **International Level Hackathon 360°-3.0**.
+- 🧠 Participated in the **TATA Crucible Campus Quiz 2025**.
 
 <br/>
 <img src="assets/divider.svg" width="800" alt="Divider" />
@@ -226,6 +241,18 @@ Here are highlights of my engineering work. Click each card to expand details.
   <a href="https://www.geeksforgeeks.org/user/arikrishnawork/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-C71400?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Platform | Max Rating / Rank | Solved Problems | Additional Achievements |
+| :--- | :--- | :--- | :--- |
+| **LeetCode** | 1,453 (Highest Rank: 119) | 70+ | Top 61.22% globally |
+| **CodeChef** | 1,171 (1 Star) | 500+ (Global Rank: 93,616) | Solved 80+ problems in DSA |
+| **Codeforces** | 955 (Newbie) | 4+ | — |
+
 </div>
 
 <br/>
