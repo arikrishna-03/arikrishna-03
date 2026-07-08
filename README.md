@@ -41,8 +41,6 @@
 
 I am an **Artificial Intelligence and Data Science** undergraduate student based in Coimbatore, India. I operate at the intersection of mathematical rigor (logic) and creative problem-solving. My core academic and technical focus is developing pipelines that extract actionable patterns from structured and unstructured datasets.
 
-- 🔭 I’m currently developing deep neural network models and optimizing data architectures.
-- 📚 Studying advanced Machine Learning, statistical inference, and big data systems.
 - ⚡ Fun fact: I believe coding is just another medium for creative expression.
 
 <br/>
