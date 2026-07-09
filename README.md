@@ -180,9 +180,6 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 
 </div>
 
-<br/>
-<img src="assets/divider.svg" width="800" alt="Divider" />
-<br/>
 
 <div align="center">
   <!-- Animated Footer -->
