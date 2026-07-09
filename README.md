@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header -->
-  <img src="assets/header.svg" width="800" alt="Arikrishna A - Header Banner" />
+  <img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/main/assets/header.svg" width="800" alt="Arikrishna A - Header Banner" />
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=C71400&background=24243C00&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Freelance+Designer" alt="Typing SVG" />
   <br/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/github/stars/arikrishna-03?color=C71400&label=STARS&style=for-the-badge" alt="Stars" />
 
   <br/><br/>
-  <img src="assets/divider.svg" width="800" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/main/assets/divider.svg" width="800" alt="Divider" />
   <br/>
 
 </div>
@@ -58,7 +58,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 </div>
 
 <br/>
-<img src="assets/divider.svg" width="800" alt="Divider" />
+<img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/main/assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
 ## Tech Stack & Skills
@@ -120,7 +120,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 </table>
 
 
-<img src="assets/divider.svg" width="800" alt="Divider" />
+<img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/main/assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
 ## Coding Profiles
@@ -139,7 +139,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 
 <br/>
 <br/>
-<img src="assets/divider.svg" width="800" alt="Divider" />
+<img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/main/assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
 ## GitHub Analytics
@@ -173,5 +173,5 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 
 <div align="center">
   <!-- Animated Footer -->
-  <img src="assets/footer.svg" width="800" alt="Arikrishna A - Footer Banner" />
+  <img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/main/assets/footer.svg" width="800" alt="Arikrishna A - Footer Banner" />
 </div>
