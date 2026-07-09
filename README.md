@@ -138,43 +138,6 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
-## 🚀 Featured Projects
-
-Here are highlights of my engineering work. Click each card to expand details.
-
-<details>
-  <summary><strong>📸 POSEAI — AI-Powered Pose Recommendation App (2025)</strong></summary>
-  <br/>
-  <blockquote>
-    An AI-powered mobile-camera application that scans location context to recommend optimal photo poses tailored to specific subject types.
-  </blockquote>
-  
-  - Architected a custom pose recommendation pipeline integrating location context and user preferences.
-  - Prototyped a robust recommendation engine utilizing Computer Vision to analyze scene composition, gender, and subjects for real-time recommendations.
-  
-  `Computer Vision` `PyTorch` `Location API` `AI Inference` `Mobile Integration` `Python`
-</details>
-
-<details>
-  <summary><strong>📊 EDUTRACK — Real-Time Academic Tracking Platform (2025)</strong></summary>
-  <br/>
-  <blockquote>
-    A web-based academic and competitive programming tracking platform with dedicated dashboards.
-  </blockquote>
-  
-  - Engineered separate mentor and student dashboards using a full-stack architecture to monitor academic and coding performance in real-time.
-  - Replaced manual Excel tracking by automating real-time data fetching directly from platforms like CodeChef and LeetCode.
-  
-  `React.js` `Node.js` `MongoDB` `REST API` `Tailwind CSS` `Express.js`
-</details>
-
-<br/>
-<img src="assets/divider.svg" width="800" alt="Divider" />
-<br/>
-<br/>
-<img src="assets/divider.svg" width="800" alt="Divider" />
-<br/>
-
 ## 💻 Coding Profiles
 
 <div align="center">
