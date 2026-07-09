@@ -171,55 +171,6 @@ Here are highlights of my engineering work. Click each card to expand details.
 <br/>
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
-
-## 💼 Experience & Education
-
-### 🎓 Education
-- **Bachelor of Technology in Artificial Intelligence & Data Science**
-  *KIT-KalaignarKarunanidhi Institute of Technology, Coimbatore* • *2024 – 2028*
-  - Key coursework: Statistical Foundations, Data Structures & Algorithms, Neural Networks, Database Systems.
-- **Master in Graphic Design**
-  *Animax Institute of Multimedia* • *Jun – Sep 2024*
-
-### 💻 Professional & Creative Experience
-- **Freelance Graphic Designer & Creative Professional**
-  *Self-Employed* • *Mar 2024 – Present*
-  - Delivered comprehensive visual design and branding solutions for 10+ clients across diverse industries, including complete corporate identity management.
-  - Structured and sold tiered branding and social media management packages (ranging from 2,999 to 9,999 INR), expanding the client base and increasing project revenue.
-  - Produced highly detailed 3D product renders and motion graphics using Blender and After Effects for enterprise-level marketing campaigns.
-  - Directed the complete project lifecycle from initial client brief to final delivery, ensuring seamless communication and 100% on-time project delivery.
-
-- **Graphic Designer Intern**
-  *USR Machineries | Remote* • *Apr 2025 – Jun 2025*
-  - Conceptualized and executed a complete brand identity suite for a manufacturing startup, including logos, visiting cards, letterheads, and catalog covers.
-  - Produced a full suite of client-facing branding materials, elevating the company's marketing presence and establishing a cohesive visual identity.
-
-- **Graphic Designer Intern**
-  *InAmigos Foundation (IAF) | Remote* • *Mar 2025 – Apr 2025*
-  - Created high-impact promotional posters and social outreach materials for an NGO registered with NITI Aayog and the Ministry of Corporate Affairs.
-  - Supported national fundraising campaigns by delivering compelling visual communication assets, significantly boosting the foundation's awareness initiatives.
-
-### 🔬 Research & Open Source
-- **Student Researcher & ML Developer**
-  - Designed and executed deep learning experiments.
-  - Collaborated on pipeline optimizations for computer vision research models.
-
-<br/>
-<img src="assets/divider.svg" width="800" alt="Divider" />
-<br/>
-
-## 🏆 Achievements & Certifications
-
-### 🎓 Certifications & Courses
-- 🎓 **Machine Learning Specialization** — Coursera (2026)
-- 🎓 **Data Visualization with Python** — Coursera (2025)
-- 🎓 **Artificial Intelligence Essentials** — Coursera (2025)
-- 🎓 **Intro to Generative AI Learning Path** — Coursera (2025)
-
-### 🥇 Achievements & Competitions
-- 🏆 Participated in the **International Level Hackathon 360°-3.0**.
-- 🧠 Participated in the **TATA Crucible Campus Quiz 2025**.
-
 <br/>
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
@@ -245,17 +196,6 @@ Here are highlights of my engineering work. Click each card to expand details.
 </div>
 
 <br/>
-
-<div align="center">
-
-| Platform | Max Rating / Rank | Solved Problems | Additional Achievements |
-| :--- | :--- | :--- | :--- |
-| **LeetCode** | 1,441 (Max: 1,555) | 94 | Top 66.27% globally |
-| **CodeChef** | 1,171 (Max: 1,203) | 819 (Global Rank: 92,857) | Solved 80+ problems in DSA |
-| **Codeforces** | 988 (Newbie) | 5 | — |
-
-</div>
-
 <br/>
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
