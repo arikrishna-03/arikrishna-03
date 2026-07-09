@@ -123,16 +123,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
   </tr>
 </table>
 
-<br/>
 
-| Domain | Core Frameworks | Architectures & Techniques |
-| :--- | :--- | :--- |
-| **Computer Vision** | OpenCV, PyTorch, TensorFlow | CNNs, Image Segmentation, U-Net, Object Detection (YOLO) |
-| **Natural Language Processing** | Hugging Face, NLTK, Transformers | Tokenization, BERT Fine-tuning, Sequence-to-Sequence models |
-| **Classical Machine Learning** | Scikit-Learn, XGBoost, Pandas | Random Forests, SVMs, Regression, Clustering Analysis |
-| **MLOps & Engineering** | FastAPI, Docker, Git | Model Containerization, Inference APIs, Version Control Pipelines |
-
-<br/>
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
