@@ -125,8 +125,6 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 
 <br/>
 
-### 🧠 AI & ML Expertise Matrix
-
 | Domain | Core Frameworks | Architectures & Techniques |
 | :--- | :--- | :--- |
 | **Computer Vision** | OpenCV, PyTorch, TensorFlow | CNNs, Image Segmentation, U-Net, Object Detection (YOLO) |
