@@ -2,12 +2,8 @@
 
   <!-- Animated Header -->
   <img src="assets/header.svg" width="800" alt="Arikrishna A - Header Banner" />
-
-  <br/><br/>
-
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=C71400&background=24243C00&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Freelance+Designer" alt="Typing SVG" />
-
   <br/>
 
   <!-- Professional Action Buttons -->
@@ -17,10 +13,10 @@
   <a href="https://www.linkedin.com/in/arikrishna37/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2C318C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.behance.net/arikrishna37" target="_blank">
+  <a href="https://www.behance.net/arikrish03" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-  <a href="mailto:arikrishna.work@gmail.com" target="_blank">
+  <a href="mailto:kit28.24bad018@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-C71400?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -37,11 +33,11 @@
 
 </div>
 
-## 🪐 About Me
+## About Me
 
 I am an **Artificial Intelligence and Data Science** undergraduate student based in Coimbatore, India. I operate at the intersection of mathematical rigor (logic) and creative problem-solving. My core academic and technical focus is developing pipelines that extract actionable patterns from structured and unstructured datasets.
 
-- ⚡ Fun fact: I believe coding is just another medium for creative expression.
+- Fun fact: I believe coding is just another medium for creative expression.
 
 <br/>
 
@@ -65,7 +61,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <table width="100%">
   <tr>
@@ -127,7 +123,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/u/kit28adc018/" target="_blank">
@@ -139,12 +135,6 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
   <a href="https://codeforces.com/profile/kit28adc018" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-8F291F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.hackerrank.com/arikrishna_work" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2D305F?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/arikrishnawork/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-C71400?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
 </div>
 
 <br/>
@@ -152,7 +142,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 <img src="assets/divider.svg" width="800" alt="Divider" />
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -175,7 +165,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 
 
   <!-- Contribution Snake Animation -->
-  <h4>🐍 Contribution Snake</h4>
+  <h4>Contribution Snake</h4>
   <img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake Dark" />
 
 </div>
