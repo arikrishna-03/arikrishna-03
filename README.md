@@ -152,7 +152,7 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arikrishna-03&theme=dark&background=24243C&fire=C71400&ring=1B23C9&stroke=2D305F&currStreakNum=E2E8F0&sideLabels=8F9CAE&hide_longest_streak=true" width="95%" alt="GitHub Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=arikrishna-03&theme=dark&background=24243C&fire=C71400&ring=1B23C9&stroke=2D305F&currStreakNum=E2E8F0&sideLabels=8F9CAE&hide_longest_streak=true" width="95%" alt="GitHub Streak Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=arikrishna-03&bg_color=24243C&color=C71400&line=1B23C9&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
@@ -162,11 +162,13 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 
   <br/>
 
-
-
   <!-- Contribution Snake Animation -->
   <h4>Contribution Snake</h4>
-  <img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake Dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake" />
+  </picture>
 
 </div>
 
