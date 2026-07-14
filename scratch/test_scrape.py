@@ -7,7 +7,7 @@ headers = {
 }
 
 def test_codechef():
-    url = "https://www.codechef.com/users/arikrishna_03"
+    url = "https://www.codechef.com/users/kit28adc018"
     print("Fetching CodeChef...")
     r = requests.get(url, headers=headers)
     print("Status:", r.status_code)
@@ -47,7 +47,7 @@ def test_leetcode():
     }
     """
     print("Fetching LeetCode...")
-    r = requests.post(url, json={"query": query, "variables": {"username": "arikrishna37"}})
+    r = requests.post(url, json={"query": query, "variables": {"username": "kit28adc018"}})
     print("Status:", r.status_code)
     if r.status_code == 200:
         print("Data:", r.json())

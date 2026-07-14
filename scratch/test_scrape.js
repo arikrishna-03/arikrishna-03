@@ -1,5 +1,5 @@
-const usernameLeetcode = 'arikrishna37';
-const usernameCodechef = 'arikrishna_03';
+const usernameLeetcode = 'kit28adc018';
+const usernameCodechef = 'kit28adc018';
 
 async function testLeetcode() {
     console.log("Fetching Leetcode...");
