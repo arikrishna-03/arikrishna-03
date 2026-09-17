@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   <!-- Animated Header -->
   <img src="https://raw.githubusercontent.com/arikrishna-03/arikrishna-03/main/assets/header.svg" width="800" alt="Arikrishna A - Header Banner" />
