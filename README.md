@@ -23,7 +23,7 @@
   <br/><br/>
 
   <!-- Profile Stats Badges -->
-  <img src="https://komarev.com/ghpvc/?username=arikrishna-03&color=1b23c9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/arikrishna-03/arikrishna-03.svg?style=for-the-badge&label=PROFILE+VIEWS&color=1b23c9&labelColor=24243c" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/arikrishna-03?color=8F291F&label=FOLLOWERS&style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/github/stars/arikrishna-03?color=C71400&label=STARS&style=for-the-badge" alt="Stars" />
 
@@ -78,11 +78,8 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
   <tr>
     <td valign="top"><strong>AI & Machine Learning</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-C71400?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-8F291F?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-2F3039?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-C71400?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--Learn-1B23C9?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging_Face-2D305F?style=flat-square&logo=huggingface&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -100,7 +97,6 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
     <td>
       <img src="https://img.shields.io/badge/Git-8F291F?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-24243C?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-C71400?style=flat-square&logo=docker&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -148,14 +144,14 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 
 
 
-  <!-- Streak Stats & Activity Graph Side by Side -->
+  <!-- Streak Stats & GitHub Stats Side by Side -->
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center">
         <img src="https://streak-stats.demolab.com/?user=arikrishna-03&theme=dark&background=24243C&fire=C71400&ring=1B23C9&stroke=2D305F&currStreakNum=E2E8F0&sideLabels=8F9CAE&hide_longest_streak=true" width="95%" alt="GitHub Streak Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=arikrishna-03&bg_color=24243C&color=C71400&line=1B23C9&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=arikrishna-03&show_icons=true&bg_color=24243C&title_color=C71400&text_color=E2E8F0&icon_color=1B23C9&border_color=2D305F" width="95%" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
